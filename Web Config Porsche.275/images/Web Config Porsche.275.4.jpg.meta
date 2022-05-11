@@ -1,0 +1,21 @@
+{
+    "image": "Web Config Porsche.275.4",
+    "model_sets": [
+        "Default"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Ground",
+            "sub_material": "Cool Grey"
+        },
+        {
+            "base_material": "Body",
+            "sub_material": "Champange"
+        },
+        {
+            "base_material": "Alloys",
+            "sub_material": "Black"
+        }
+    ],
+    "studio": "Zoomed Out"
+}
